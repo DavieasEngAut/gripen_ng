@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Ajuste para garantir que o fundo fique sempre preto no CachyOS */
+body {
+  margin: 0;
+  background-color: black;
+  color: #22d3ee;
+}
