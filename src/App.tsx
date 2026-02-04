@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Shield, Zap, Settings, X, Globe, AlertCircle } from 'lucide-react';
+import {Settings, X, Globe, AlertCircle } from 'lucide-react';
 
 interface Telemetry {
   roll: number; pitch: number; ias: number; alt: number; oilTemp: number;
