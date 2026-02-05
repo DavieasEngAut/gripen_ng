@@ -99,8 +99,8 @@ export default function App() {
       <div className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center">
         <h2 className="text-2xl font-black tracking-[15px] uppercase italic opacity-80">Niobio Labs</h2>
         <div className="flex gap-4 mt-2 opacity-40 text-[8px] tracking-[4px]">
-          <span>STATION: LEOPOLDINA</span>
-          <span>PILOT: SANTANA</span>
+          <span>STATION: BRAZIL</span>
+          <span>PILOT: user</span>
         </div>
       </div>
 
